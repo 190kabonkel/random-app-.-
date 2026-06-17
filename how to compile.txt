@@ -1,0 +1,4 @@
+to compile my app cd into the src dir 
+then type rustc main.rs
+wait
+type main in the dir in cmd
